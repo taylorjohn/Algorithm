@@ -114,6 +114,14 @@ In the analysis of algorithms, the master theorem for divide-and-conquer recurre
 
 ## Sorting Algorithms
 
+Bubble Sort(size=10000):  0.00295114517
+Insertion Sort(size=10000):  0.01595640182
+Selection Sort(size=10000):  8.99420881271
+Heap Sort(size=10000):  0.13767814636
+Quick Sort(size=10000):  0.0329117775
+Merge Sort(size=10000):  0.06178402901
+
+
 * Bubble Sort
 * Insertion Sort
 * Selection Sort
