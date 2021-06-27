@@ -32,6 +32,11 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 ## Sorting Algorithms
 
+* Bubble Sort
+* Insertion Sort
+* Quick Sort 
+* Heap Sort
+
 ## Searching Algorithms
 
 * Beam Search 
