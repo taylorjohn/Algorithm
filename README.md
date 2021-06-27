@@ -1,8 +1,8 @@
+The following is a collection of algorithms with speed and memory info so I can look to make choices when writing a program.
+
 # Algorithms in Python
 
 In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of specific problems or to perform a computation.
-
-The following is a collection of algorithms with speed and memory info so I can look to make choices when writing a program.
 
 ## Arrays
 
