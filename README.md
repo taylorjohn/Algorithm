@@ -14,6 +14,10 @@ In mathematics and computer science, an algorithm is a finite sequence of well-d
 
 ## Stacks
 
+    push(value) -> None — adds the value to the stack
+    pop() -> Any — removes the most recent value from the stack
+    is_empty() -> bool — checks to see if there are items in the stack
+
 * Push()
 * Pop()
 * Display()
