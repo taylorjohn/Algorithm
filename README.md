@@ -4,9 +4,22 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 ## Arrays
 
+* One Dimentional Array
+* Two Dimentional Array
+* Lower Triangular Matrix
+* Tridiagonal Matrix
+* Tridiagonal Matrix
+
 ## Stacks
 
+* Push()
+* Pop()
+* Display()
+* Push, Pop, Display()
+
 ## Recursion
+
+* Fibonacci Series
 
 ## Queues
 
@@ -30,6 +43,11 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 ## Spanning Trees
 
+* Krushkal's Algorithm - Minimum Spanning Trees
+* Prim's Algorithm - Minimum Spanning Tree
+* Minimum Spanning Trees
+
+
 ## Sorting Algorithms
 
 * Bubble Sort
@@ -47,11 +65,16 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 ## Greedy Method
 
-## Fractional Knapsack Problem
-
-## Min # Coins Required
+* Job Sequencing Problem
+* Fractional Knapsack Problem 
+* Optimal Merge Pattern 
+* Min # Coins Required
 
 ## Dynamic Programming
+
+* Travelling Salesperson Problem
+* Longest Common Subsequence
+* Multistage Graph
 
 ## Backtracking
 
