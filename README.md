@@ -1,33 +1,59 @@
-# Algorithms
+# Algorithms in Python
 
-##Arrays
-##Stacks
-##Recursion
-##Queues
-##Linked List
-##Binary Tree
-##Binary Search Tree
-##Heaps
-##Graphs
-##Hashing
-##Asymptotic Notion
-##Time Complexity
-##Master Theorem
-##Spanning Trees
-##Sorting Algorithms
-##Searching Algorithms
+The following is a collection of algorithms with speed and memory info so I can look to make choices when writing a program.
+
+## Arrays
+
+## Stacks
+
+## Recursion
+
+## Queues
+
+## Linked List
+
+## Binary Tree
+
+## Binary Search Tree
+
+## Heaps
+
+## Graphs
+
+## Hashing
+
+## Asymptotic Notion
+
+## Time Complexity
+
+## Master Theorem
+
+## Spanning Trees
+
+## Sorting Algorithms
+
+## Searching Algorithms
+
 * Beam search
 * Binary search
 * A* search
-##Greedy Method
-##Fractional knapsack problem
-##Min # coins required
-##Dynamic programming
+* Linear Search
 
-##Backtracking
-##Divide and conquer
-##Randomized
-##Branch and bound
+## Greedy Method
+
+## Fractional Knapsack Problem
+
+## Min # Coins Required
+
+## Dynamic Programming
+
+## Backtracking
+
+## Divide and Conquer
+
+## Randomized
+
+## Branch and Bound
 
 
 
