@@ -31,6 +31,14 @@ Recursion is the process of defining a problem (or the solution to a problem) in
 
 ## Queues
 
+    add_front(value: Any) -> None — adds a new item to the front of a deque
+    add_rear(value: Any) -> None — adds a new item to the end of a deque
+    remove_front() -> Any — returns the first item from the deque and removes it
+    remove_rear() -> Any — returns the last item from the deque and removes it
+    is_empty() -> bool — checks to see if there are items in the queue
+    
+    
+
 ## Linked List
 
 * Singly Linked Lists
