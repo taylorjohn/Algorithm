@@ -12,6 +12,25 @@ In mathematics and computer science, an algorithm is a finite sequence of well-d
 * Tridiagonal Matrix
 * Tridiagonal Matrix
 
+
+Stacks
+ * push(value) -> None — adds the value to the stack
+ * pop() -> Any — removes the most recent value from the stack
+ * is_empty() -> bool — checks to see if there are items in the stack
+	
+Queues
+ * enqueue(value) -> None — adds a new item to the rear of the queue
+ * dequeue() -> Any — removes the first item in the queue
+ * is_empty() -> bool— checks to see if there are items in the queue
+ * peek() -> Any — returns the first item in the queue but doesn’t remove it
+ 
+Deques
+ * add_front(value: Any) -> None — adds a new item to the front of a deque
+ * add_rear(value: Any) -> None — adds a new item to the end of a deque
+ * remove_front() -> Any — returns the first item from the deque and removes it
+ * remove_rear() -> Any — returns the last item from the deque and removes it
+ * is_empty() -> bool — checks to see if there are items in the queue
+
 ## Stacks
 
     push(value) -> None — adds the value to the stack
@@ -23,12 +42,6 @@ In mathematics and computer science, an algorithm is a finite sequence of well-d
 * Display()
 * Push, Pop, Display()
 
-## Recursion
-
-Recursion is the process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself. For example, we can define the operation "find your way home" as: If you are at home, stop moving.
-
-* Fibonacci Series
-
 ## Queues
 
     add_front(value: Any) -> None — adds a new item to the front of a deque
@@ -37,7 +50,13 @@ Recursion is the process of defining a problem (or the solution to a problem) in
     remove_rear() -> Any — returns the last item from the deque and removes it
     is_empty() -> bool — checks to see if there are items in the queue
     
-    
+
+## Recursion
+
+Recursion is the process of defining a problem (or the solution to a problem) in terms of (a simpler version of) itself. For example, we can define the operation "find your way home" as: If you are at home, stop moving.
+
+* Fibonacci Series
+
 
 ## Linked List
 
