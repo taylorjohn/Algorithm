@@ -34,9 +34,10 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 ## Searching Algorithms
 
-* Beam search
-* Binary search
-* A* search
+* Beam Search 
+* Binary Search Iterative
+* Binary Search Recursive
+* A* Search
 * Linear Search
 
 ## Greedy Method
