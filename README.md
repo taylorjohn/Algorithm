@@ -25,13 +25,28 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 ## Linked List
 
-## Binary Tree
+* Singly Linked Lists
+* Doubly Linked List
+* Singly Linked List Cycle
+* Linked List Reversal 
+* Linked List Nth to Last Node
 
-## Binary Search Tree
+## Tree
+
+* Tree Representation
+* Tree Traversals
+* Binary Search Trees
+* Binary Trees
+* Tree Level Order
 
 ## Heaps
 
 ## Graphs
+
+* Word Ladder
+* Breadth First Search
+* Knight's Tour
+* Depth First Search
 
 ## Hashing
 
@@ -52,8 +67,11 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 * Bubble Sort
 * Insertion Sort
+* Selection Sort
 * Quick Sort 
 * Heap Sort
+* Merge Sort
+* Shell Sort
 
 ## Searching Algorithms
 
