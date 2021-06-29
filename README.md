@@ -4,6 +4,11 @@ The following is a collection of algorithms with speed and memory info so I can 
 
 In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of specific problems or to perform a computation.
 
+| Algorithm | Time complexity | Space Complexity | Comparison | Stable | Recursive | In-place| Adaptive | Online |
+| :---         |     :---:      |          ---: | :---         |     :---:      |          ---: | :---         |     :---:      |          ---: |
+| Radix Sort  |   Best: O(d(n+b))<br> Average: O(d(n+b))<br> Worst:O(d(n+b)) | Worst: O(n+b)  | - [ ] No   | - [x] Yes   | - [ ] No   | - [ ] No   | - [ ] No   | - [ ] No   |
+| Quicksort   |   Best: O(nlogn)<br> Average: O(nlogn)<br> Worst: O(n<sup>2</sup>)| Worst: O(nlogn)  | - [x] Yes   | -- [ ] No   | - [x] Yes   | - [x] Yes   | - [ ] No   | - [ ] No   |
+
 ## Arrays
 
 * One Dimentional Array
